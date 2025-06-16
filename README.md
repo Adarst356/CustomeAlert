@@ -17,7 +17,7 @@ This dialog can be used to show confirmation popups like **Add**, **Update**, **
 
 ## 📦 Installation
 
-### 🔧 Step 1: Add JitPack to your root `settings.gradle`
+🔧 Step 1: Add JitPack to your root-level settings.gradle
 
 ```groovy
 dependencyResolutionManagement {
@@ -28,11 +28,11 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
+```
 
 
 
-
-###  ➕ Step 2: Add the dependency in your app-level build.gradle
+➕ Step 2: Add the dependency in your app-level build.gradle
 
 ```groovy
 dependencies {
