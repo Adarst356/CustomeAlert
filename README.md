@@ -1,4 +1,5 @@
 # 🔔 CustomAlertDialog
+[![](https://jitpack.io/v/Adarst356/CustomeAlert.svg)](https://jitpack.io/#Adarst356/CustomeAlert)
 
 A lightweight and animated custom alert dialog library for Android, written in Java.  
 This dialog can be used to show confirmation popups like **Add**, **Update**, **Delete**, or **Exit** with appropriate icons and smooth animations.
