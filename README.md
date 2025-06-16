@@ -42,7 +42,7 @@ dependencies {
 📝 Note: Replace 1.1 with your actual GitHub release tag if needed.
 
 
-📷 Preview
+**📷 Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ed66936f-ddb3-4442-8a3b-12f049970cba" width="200" />
