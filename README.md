@@ -13,7 +13,7 @@ Simple usage with just one method call
 Written in pure Java (no extra dependencies)
 
 
-📦 Installation
+##📦 Installation
 To use this library in your Android project, follow these steps:
 
 🔧 Step 1: Add JitPack to your root settings.gradle
@@ -28,7 +28,7 @@ dependencyResolutionManagement {
 }
 
 
-➕ Step 2: Add the dependency in your build.gradle (app level)
+##➕ Step 2: Add the dependency in your build.gradle (app level)
 
 dependencies {
     implementation 'com.github.Adarst356:CustomeAlert:Tag'
