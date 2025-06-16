@@ -29,15 +29,20 @@ dependencyResolutionManagement {
     }
 }
 
+
+
+
 ➕ Step 2: Add the dependency in your app-level build.gradle
-groovy
+md
 Copy
 Edit
+```groovy
 dependencies {
     implementation 'com.github.Adarst356:CustomeAlert:1.1'
 }
+```
+📝 Note: Replace 1.1 with your actual GitHub release tag if needed.
 
-📝 Replace 1.1 with your actual release tag if it's different
 
 
 📷 Preview
