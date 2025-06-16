@@ -1,23 +1,25 @@
-🔔 CustomAlertDialog
-A lightweight and animated custom alert dialog library for Android, written in Java. This dialog can be used to show confirmation popups like Add, Update, Delete, or Exit with appropriate icons and smooth animations.
+# 🔔 CustomAlertDialog
 
-✨ Features
-Customizable layout and title
+A lightweight and animated custom alert dialog library for Android, written in Java.  
+This dialog can be used to show confirmation popups like **Add**, **Update**, **Delete**, or **Exit** with appropriate icons and smooth animations.
 
-Icons based on action type (Add, Update, Delete, Exit)
+---
 
-Smooth enter animation
+## ✨ Features
 
-Simple usage with just one method call
+- ✅ Customizable layout and title  
+- ✅ Icons based on action type (Add, Update, Delete, Exit)  
+- ✅ Smooth enter animation  
+- ✅ Simple usage with just one method call  
+- ✅ Written in pure Java (no extra dependencies)  
 
-Written in pure Java (no extra dependencies)
+---
 
+## 📦 Installation
 
-##📦 Installation
-To use this library in your Android project, follow these steps:
+### 🔧 Step 1: Add JitPack to your root `settings.gradle`
 
-🔧 Step 1: Add JitPack to your root settings.gradle
-
+```groovy
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -27,15 +29,16 @@ dependencyResolutionManagement {
     }
 }
 
-
-##➕ Step 2: Add the dependency in your build.gradle (app level)
-
+➕ Step 2: Add the dependency in your app-level build.gradle
+groovy
+Copy
+Edit
 dependencies {
-    implementation 'com.github.Adarst356:CustomeAlert:Tag'
+    implementation 'com.github.Adarst356:CustomeAlert:1.1'
+}
+
+📝 Replace 1.1 with your actual release tag if it's different
 
 
-    📝 Replace Tag with your actual release tag, e.g. 1.1
-
-
-
-    
+📷 Preview
+<!-- Replace with actual image link -->
